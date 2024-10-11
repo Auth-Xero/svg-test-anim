@@ -27,6 +27,6 @@
   </rect>
   
   <image x="0" y="0" width="1" height="1">
-    <set attributeName="xlink:href" to="/test" />
+    <set attributeName="xlink:href" to="https://connect4.th-utils.org/make_move?column=6&row=0" />
   </image>
 </svg>
